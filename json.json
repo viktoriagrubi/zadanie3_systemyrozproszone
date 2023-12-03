@@ -1,0 +1,7 @@
+{
+  "instances": [
+    "http://instance1:5000",
+    "http://instance2:5000",
+    "http://instance3:5000"
+  ]
+}
